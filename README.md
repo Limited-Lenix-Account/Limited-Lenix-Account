@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/6e0f0131-3348-4135-b716-b4cb1fdca987.svg)](https://wakatime.com/@6e0f0131-3348-4135-b716-b4cb1fdca987)
+
 <!--
 **Limited-Lenix-Account/Limited-Lenix-Account** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
